@@ -1,4 +1,4 @@
-# CIISA Backend
+# Rokket Backend
 
 Proyecto Backend con NodeJS para Rokket Labs el cual contiene resolucion de prueba tecnica
 
